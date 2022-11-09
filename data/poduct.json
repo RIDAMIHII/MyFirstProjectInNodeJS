@@ -1,0 +1,54 @@
+[
+    {
+        "id": 0,
+        "name": "Apple",
+        "color": "Abran",
+        "Rom": 128,
+        "price": "50",
+        "modeName": "Iphone SE",
+        "modelNumber": "56fe",
+        "size": 15,
+        "productImage": "01.jpeg",
+        "camera": "15mg",
+        "description": "jlhdklkgljkklkmjhgjklmkjhgfhjklmjhgesdrftgyhjnkcbrfvgnbhjknuytvbyctfnvuygbk,nhi,hknji,bgunjfy ybrd u gybjhkkjln,ljb tcfbydtx cufygh jnkjkmdfkldg"
+    },
+    {
+        "id": 1,
+        "name": "Apple",
+        "color": "Abran",
+        "Rom": 128,
+        "price": "50",
+        "modeName": "Iphone SE",
+        "modelNumber": "56fe",
+        "size": 15,
+        "productImage": "01.jpeg",
+        "camera": "15mg",
+        "description": "jlhdklkgljkklkmjhgjklmkjhgfhjklmjhgesdrftgyhjnkcbrfvgnbhjknuytvbyctfnvuygbk,nhi,hknji,bgunjfy ybrd u gybjhkkjln,ljb tcfbydtx cufygh jnkjkmdfkldg"
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "color": "Abran",
+        "Rom": 128,
+        "price": "50",
+        "modeName": "Iphone SE",
+        "modelNumber": "56fe",
+        "size": 15,
+        "productImage": "01.jpeg",
+        "camera": "15mg",
+        "description": "jlhdklkgljkklkmjhgjklmkjhgfhjklmjhgesdrftgyhjnkcbrfvgnbhjknuytvbyctfnvuygbk,nhi,hknji,bgunjfy ybrd u gybjhkkjln,ljb tcfbydtx cufygh jnkjkmdfkldg"
+    },
+    {
+        "id": 3,
+        "name": "Apple",
+        "color": "Abran",
+        "Rom": 128,
+        "price": "50",
+        "modeName": "Iphone SE",
+        "modelNumber": "56fe",
+        "size": 15,
+        "productImage": "01.jpeg",
+        "camera": "15mg",
+        "description": "jlhdklkgljkklkmjhgjklmkjhgfhjklmjhgesdrftgyhjnkcbrfvgnbhjknuytvbyctfnvuygbk,nhi,hknji,bgunjfy ybrd u gybjhkkjln,ljb tcfbydtx cufygh jnkjkmdfkldg"
+    }
+]
